@@ -1,3 +1,5 @@
+Proyecto sobre Next JS utilizando React JS como framework de JavaScript. Permite manejar tareas en un dashboard y cambiar las tareas de columnas de estado.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
